@@ -1,0 +1,8 @@
+stm32_spi_flash.c:19:6:sFLASH_EraseSector	24	static
+stm32_spi_flash.c:50:6:sFLASH_EraseChip	16	static
+stm32_spi_flash.c:84:6:sFLASH_WritePage	32	static
+stm32_spi_flash.c:120:6:sFLASH_ReadBuffer	32	static
+stm32_spi_flash.c:152:6:sFLASH_WriteBuffer	48	static
+stm32_spi_flash.c:233:10:sFLASH_ReadID	16	static
+stm32_spi_flash.c:259:6:sFLASH_WriteEnable	16	static
+stm32_spi_flash.c:282:6:sFLASH_WaitForWriteEnd	16	static
